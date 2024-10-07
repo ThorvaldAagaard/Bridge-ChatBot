@@ -1,2 +1,2 @@
 # Bridge-ChatBot
-Domain specific chatbor for the card game bridge
+Domain specific chatbot for the card game bridge
